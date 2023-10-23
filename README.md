@@ -25,12 +25,14 @@
 
 ✔ Tengo 20 años <img src="https://i.pinimg.com/originals/36/73/3d/36733d81d5616c156f3065f8d53f08d0.gif" width="40px"> <br>
 ✔ Estoy aprendiendo actaulamente lenguajes de programación <br>
-✔ Me apasiona la tecnologia y el desarrollo <br>
+✔ Me apasiona la tecnologia y el desarrollo <br>                                                      
 ✔ Estoy emocionada por aprender y crecer en mi campo <br>
 ✔ Puedes preguntarme sobre temas relacionados,estare dispuesta a ayudarte <br>
 <br><br><br>
+ <img src="https://i.pinimg.com/originals/31/8e/25/318e259cdf22d9bda7554187a704aaa1.gif" height="200"/>  
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***lenguajes y herraminetas que conozco...***
 <p align="left">
+  
   <code>
   <img height="40" src="https://i.pinimg.com/564x/a3/e2/18/a3e21834809a55797f014498b8c345bf.jpg"> </code>
   <code> <img height="50" src="https://i.pinimg.com/564x/ca/e1/b4/cae1b4f6b223fe5a7bb712b680cffa67.jpg"> </code>
@@ -81,10 +83,4 @@
 </div>
 
 <hr>
-
-
------
-Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
-
-Last Edited on: 22/02/2021
 
