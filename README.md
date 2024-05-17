@@ -24,7 +24,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Hablando de asuntos personales...***
 
 ✔ Tengo 20 años <img src="https://i.pinimg.com/originals/36/73/3d/36733d81d5616c156f3065f8d53f08d0.gif" width="40px"> <br>
-✔ Estoy aprendiendo actaulamente lenguajes de programación <br>
+✔ Estoy aprendiendo actualmente lenguajes de programación <br>
 ✔ Me apasiona la tecnologia y el desarrollo <br>
 ✔ Estoy emocionada por aprender y crecer en mi campo <br>
 ✔ Puedes preguntarme sobre temas relacionados,estare dispuesta a ayudarte <br>
